@@ -1,0 +1,6 @@
+echo ".env" >> .gitignore
+echo "cookies.txt" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "video.*" >> .gitignore
+echo "audio.*" >> .gitignore
+echo "video.mp4" >> .gitignore
